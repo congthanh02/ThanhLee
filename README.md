@@ -67,7 +67,7 @@
     <td>
       <p align="center"> 
         <video controls>
-  <source src="https://thumbs.gfycat.com/MellowPiercingHammerkop-mobile.mp4" alt="dev" width="100%" >
+  <source controls loop autoplay src="https://thumbs.gfycat.com/MellowPiercingHammerkop-mobile.mp4" alt="dev" width="100%" >
 </video>
         <img src="" />
       </p>
