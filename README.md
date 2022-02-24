@@ -14,7 +14,7 @@
 </p>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">An ordinary person from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thanh-lee-username&color="blue" alt="thanh-lee" /> <img src="https://badges.pufler.dev/repos/thanh-lee" alt="thanh-lee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thanh-lee-username&color=blue" alt="thanh-lee" /> <img src="https://badges.pufler.dev/repos/thanh-lee" alt="thanh-lee" /> </p>
 
 - ✍ I'm a student of: [Vietnam - Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
 
