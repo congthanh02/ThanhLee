@@ -66,10 +66,7 @@
     </td>
     <td>
       <p align="center"> 
-        <video controls>
-  <source controls loop autoplay src="https://thumbs.gfycat.com/MellowPiercingHammerkop-mobile.mp4" alt="dev" width="100%" >
-</video>
-        <img src="" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
