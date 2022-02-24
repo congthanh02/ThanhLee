@@ -82,6 +82,6 @@
     <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification.png" width="350px" />
   </a>
   <a href="https://codelearn.io/certification/yjzjotlj">
-    <img alt="Truyền thông và Mạng máy tính" title="Network" src="Certificates/Network_certification.png" width="300px" />
+    <img alt="Truyền thông và Mạng máy tính" title="Network" src="Certificates/Network_certification.png" width="350px" />
   </a>
 </p>
