@@ -76,9 +76,9 @@
 
 <p align="center">
   <a href="https://codelearn.io/certification/mta3m2yy">
-    <img alt="Java Cơ Bản" title="Java co ban" src="certification/Java_certification" width="300px" />
+    <img alt="Java Cơ Bản" title="Java co ban" src="Certificates/Java_certification" width="300px" />
   </a>
   <a href="https://codelearn.io/certification/mzu1mtex">
-    <img alt="C Cơ bản" title="C Cơ bản" src="certification/C_certification" width="300px" />
+    <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification" width="300px" />
   </a>
 </p>
