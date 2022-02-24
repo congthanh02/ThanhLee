@@ -71,7 +71,6 @@
     </td>
   </tr>
 </table>
-<!--
 # Certificates:
 
 <p align="center">
