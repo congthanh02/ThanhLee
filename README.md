@@ -81,4 +81,7 @@
   <a href="https://codelearn.io/certification/mzu1mtex">
     <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification.png" width="300px" />
   </a>
+  <a href="https://codelearn.io/certification/mzu1mtex">
+    <img alt="Truyền thông và Mạng máy tính" title="C Cơ bản" src="Certificates/Network_certification.png" width="300px" />
+  </a>
 </p>
