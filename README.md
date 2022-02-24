@@ -76,10 +76,10 @@
 
 <p align="center">
   <a href="https://codelearn.io/certification/mta3m2yy">
-    <img alt="Java Cơ Bản" title="Java cơ bản" src="Certificates/Java_certification.png" width="300px" />
+    <img alt="Java Cơ Bản" title="Java cơ bản" src="Certificates/Java_certification.png" width="350px" />
   </a>
   <a href="https://codelearn.io/certification/mzu1mtex">
-    <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification.png" width="300px" />
+    <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification.png" width="350px" />
   </a>
   <a href="https://codelearn.io/certification/yjzjotlj">
     <img alt="Truyền thông và Mạng máy tính" title="Network" src="Certificates/Network_certification.png" width="300px" />
