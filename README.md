@@ -67,6 +67,7 @@
     <td>
       <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
@@ -75,7 +76,7 @@
 
 <p align="center">
   <a href="https://codelearn.io/certification/mta3m2yy">
-    <img alt="Java Cơ Bản" title="Java co ban" src="Certificates/Java_certification.png" width="300px" />
+    <img alt="Java Cơ Bản" title="Java cơ bản" src="Certificates/Java_certification.png" width="300px" />
   </a>
   <a href="https://codelearn.io/certification/mzu1mtex">
     <img alt="C Cơ bản" title="C Cơ bản" src="Certificates/C_certification.png" width="300px" />
