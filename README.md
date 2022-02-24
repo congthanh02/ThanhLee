@@ -66,7 +66,10 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://thumbs.gfycat.com/MellowPiercingHammerkop-mobile.mp4" alt="dev" width="100%"/>
+        <video controls>
+  <source src="https://thumbs.gfycat.com/MellowPiercingHammerkop-mobile.mp4" alt="dev" width="100%" >
+</video>
+        <img src="" />
       </p>
     </td>
   </tr>
