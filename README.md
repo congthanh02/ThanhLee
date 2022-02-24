@@ -75,7 +75,7 @@
 # Certificates:
 
 <p align="center">
-  <a href="https://codelearn.io/certification/mta3m2yy">
+  <a href="https://codelearn.io/certification/mta3m2yy" target=_blank>
     <img alt="Java Cơ Bản" title="Java cơ bản" src="Certificates/Java_certification.png" width="350px" />
   </a>
   <a href="https://codelearn.io/certification/mzu1mtex">
