@@ -84,7 +84,7 @@
   <a href="https://codelearn.io/certification/yjzjotlj">
     <img alt="Truyền thông và Mạng máy tính" title="Network" src="Certificates/Network_certification.png" width="350px" />
   </a>
-   <a href="https://codelearn.io/certification/yjzjotlj">
+   <a href="https://codelearn.io/certification/ntvhmduw">
     <img alt="Phần mềm máy tính" title="Phần mềm máy tính" src="Certificates/Software_certification.png" width="350px" />
   </a>
 </p>
