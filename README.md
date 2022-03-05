@@ -80,19 +80,10 @@
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-lee&repo=Tic-Tac-Toe&theme=tokyonight" alt="thanhlee" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/thanh-lee/thanh-lee">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thanh-lee&repo=thanh-lee&theme=tokyonight" alt="thanhlee" />
 </a>
 </p>
-
-<p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
 </p>
 ## <p align="center">Github Contributions 📈</p>
 <br>
