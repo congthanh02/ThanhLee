@@ -72,6 +72,13 @@
     </td>
   </tr>
 </table>
+
+## <p align="center">Github Contributions 📈</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=thanh-lee&theme=react-dark&hide_border=true">
+<p>
+
 # Certificates:
 
 <p align="center">
