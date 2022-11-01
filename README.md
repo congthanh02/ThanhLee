@@ -90,7 +90,7 @@
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=thanh-lee&theme=react-dark&hide_border=true">
 <p>
-
+<!-- 
 # Certificates:
 
 <p align="center">
@@ -107,3 +107,4 @@
     <img alt="Phần mềm máy tính" title="Phần mềm máy tính" src="Certificates/Software_certification.png" width="350px" />
   </a>
 </p>
+ -->
